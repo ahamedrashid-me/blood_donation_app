@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.blood_donation_app"
+    namespace = "org.softwave-team.blood_donation_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
